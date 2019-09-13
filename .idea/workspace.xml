@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="paintCalculator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="paintCalculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/assignments/paintCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            <state relative-caret-position="204">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -57,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FixDebugThree3.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FixDebugThree3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignments/FixDebugThree3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -101,18 +101,17 @@
         <option value="$PROJECT_DIR$/src/examples/calculator.java" />
         <option value="$PROJECT_DIR$/src/assignments/pundConverter.java" />
         <option value="$PROJECT_DIR$/src/assignments/poundConverter.java" />
-        <option value="$PROJECT_DIR$/src/assignments/paintCalculator.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugThree1.java" />
         <option value="$PROJECT_DIR$/src/assignments/FIxDebugThree2.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugThree2.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugThree4.java" />
         <option value="$PROJECT_DIR$/src/assignments/FixDebugThree3.java" />
+        <option value="$PROJECT_DIR$/src/assignments/paintCalculator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1329" />
-    <option name="y" value="17" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1287" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -174,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FixDebugThree3">
+  <component name="RunManager" selected="Application.paintCalculator">
     <configuration name="FixDebugThree1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignments.FixDebugThree1" />
       <module name="Chapter-3" />
@@ -280,11 +279,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.paintCalculator" />
         <item itemvalue="Application.FixDebugThree3" />
         <item itemvalue="Application.FixDebugThree4" />
         <item itemvalue="Application.FixDebugThree2" />
         <item itemvalue="Application.FixDebugThree1" />
-        <item itemvalue="Application.paintCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +301,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -350,13 +349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignments/paintCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
@@ -397,6 +389,13 @@
             <element signature="e#536#537#0" expanded="true" />
             <element signature="e#594#595#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignments/paintCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
         </state>
       </provider>
     </entry>

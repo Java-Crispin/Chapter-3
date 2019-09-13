@@ -21,7 +21,8 @@ public class paintCalculator {
     }
     public static void gallonsNeeded(double areaOfRoom){
         final double PAINT_COVERAGE = 350;
-        double gallonsNeeded = areaOfRoom / PAINT_COVERAGE;
+        double gallonsNeededA = areaOfRoom / PAINT_COVERAGE;
+        double gallonsNeeded = Math.ceil(gallonsNeededA);
         pl("You will need " + gallonsNeeded + " gallons of paint to cover the room.");
         priceCalculator(gallonsNeeded);
     }
